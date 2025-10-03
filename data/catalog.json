@@ -1,0 +1,331 @@
+{
+  "meta": {
+    "items_count": 2,
+    "by_region": {
+      "China": 1,
+      "East Asia": 1,
+      "Europe": 1,
+      "Hangzhou": 1,
+      "Huangzhou (Hubei)": 1,
+      "Italy": 1,
+      "Naples": 1,
+      "Sichuan": 1
+    },
+    "by_period": {
+      "18th Century": 1,
+      "19th Century": 1,
+      "20th Century": 1,
+      "Ming Dynasty": 1,
+      "Modern": 1,
+      "Qing Dynasty": 1,
+      "Song Dynasty": 1
+    },
+    "by_technique": {
+      "Baking": 1,
+      "Blanching": 1,
+      "Braising": 1,
+      "Caramelization": 1,
+      "Fermentation": 1,
+      "Frying": 1,
+      "Red-Cooking": 1,
+      "Slow Cooking": 1
+    }
+  },
+  "items": [
+    {
+      "title": "Dongpo Pork",
+      "regions": [
+        "East Asia",
+        "China",
+        "Hangzhou",
+        "Huangzhou (Hubei)",
+        "Sichuan"
+      ],
+      "periods": [
+        "Song Dynasty",
+        "Ming Dynasty",
+        "Qing Dynasty",
+        "Modern"
+      ],
+      "techniques": [
+        "Braising",
+        "Red-Cooking",
+        "Blanching",
+        "Caramelization",
+        "Slow Cooking"
+      ],
+      "ingredients": [
+        "Pork Belly",
+        "Shaoxing Wine",
+        "Light Soy Sauce",
+        "Dark Soy Sauce",
+        "Rock Sugar",
+        "Ginger",
+        "Scallion"
+      ],
+      "path": "foods/asia/china/dongpo_pork.md",
+      "word_count": 1744,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Dongpo Pork",
+          "anchor": "dongpo-pork"
+        },
+        {
+          "level": 2,
+          "text": "Introduction",
+          "anchor": "introduction"
+        },
+        {
+          "level": 2,
+          "text": "Place of Origin",
+          "anchor": "place-of-origin"
+        },
+        {
+          "level": 2,
+          "text": "Time of Emergence",
+          "anchor": "time-of-emergence"
+        },
+        {
+          "level": 2,
+          "text": "Origins",
+          "anchor": "origins"
+        },
+        {
+          "level": 2,
+          "text": "Historical Development (Timeline)",
+          "anchor": "historical-development-timeline"
+        },
+        {
+          "level": 2,
+          "text": "Ingredients",
+          "anchor": "ingredients"
+        },
+        {
+          "level": 2,
+          "text": "Cooking Method",
+          "anchor": "cooking-method"
+        },
+        {
+          "level": 3,
+          "text": "Standard Hangzhou Procedure",
+          "anchor": "standard-hangzhou-procedure"
+        },
+        {
+          "level": 3,
+          "text": "Texture & Heat Science (practical notes)",
+          "anchor": "texture--heat-science-practical-notes"
+        },
+        {
+          "level": 2,
+          "text": "Regional & Stylistic Variants",
+          "anchor": "regional--stylistic-variants"
+        },
+        {
+          "level": 3,
+          "text": "A. Zhejiang & Jiangsu (Jiangnan heartland)",
+          "anchor": "a-zhejiang--jiangsu-jiangnan-heartland"
+        },
+        {
+          "level": 3,
+          "text": "B. Hubei & Sichuan (Su’s life geography)",
+          "anchor": "b-hubei--sichuan-sus-life-geography"
+        },
+        {
+          "level": 3,
+          "text": "C. Shanghai & Surroundings",
+          "anchor": "c-shanghai--surroundings"
+        },
+        {
+          "level": 3,
+          "text": "D. Northern & Inland Adaptations",
+          "anchor": "d-northern--inland-adaptations"
+        },
+        {
+          "level": 3,
+          "text": "E. Southern China & Hakka Sphere",
+          "anchor": "e-southern-china--hakka-sphere"
+        },
+        {
+          "level": 3,
+          "text": "F. Taiwan, Southeast Asia & Overseas Chinese",
+          "anchor": "f-taiwan-southeast-asia--overseas-chinese"
+        },
+        {
+          "level": 2,
+          "text": "Comparative Appendix: Styles at a Glance",
+          "anchor": "comparative-appendix-styles-at-a-glance"
+        },
+        {
+          "level": 2,
+          "text": "Cultural Significance",
+          "anchor": "cultural-significance"
+        },
+        {
+          "level": 2,
+          "text": "Notable Institutions & Standards",
+          "anchor": "notable-institutions--standards"
+        },
+        {
+          "level": 2,
+          "text": "References",
+          "anchor": "references"
+        },
+        {
+          "level": 2,
+          "text": "Citations",
+          "anchor": "citations"
+        }
+      ]
+    },
+    {
+      "title": "Pizza",
+      "regions": [
+        "Europe",
+        "Italy",
+        "Naples"
+      ],
+      "periods": [
+        "18th Century",
+        "19th Century",
+        "20th Century"
+      ],
+      "techniques": [
+        "Fermentation",
+        "Baking",
+        "Frying"
+      ],
+      "ingredients": [
+        "Wheat Flour",
+        "Yeast",
+        "Tomato",
+        "Cheese",
+        "Olive Oil"
+      ],
+      "path": "foods/europe/italy/pizza.md",
+      "word_count": 1917,
+      "headings": [
+        {
+          "level": 1,
+          "text": "Pizza",
+          "anchor": "pizza"
+        },
+        {
+          "level": 2,
+          "text": "Introduction",
+          "anchor": "introduction"
+        },
+        {
+          "level": 2,
+          "text": "Place of Origin",
+          "anchor": "place-of-origin"
+        },
+        {
+          "level": 2,
+          "text": "Time of Emergence",
+          "anchor": "time-of-emergence"
+        },
+        {
+          "level": 2,
+          "text": "Origins",
+          "anchor": "origins"
+        },
+        {
+          "level": 2,
+          "text": "Historical Development (Concise Timeline)",
+          "anchor": "historical-development-concise-timeline"
+        },
+        {
+          "level": 2,
+          "text": "Regulatory & Heritage Status",
+          "anchor": "regulatory--heritage-status"
+        },
+        {
+          "level": 2,
+          "text": "Ingredients (Core, Neapolitan Canon)",
+          "anchor": "ingredients-core-neapolitan-canon"
+        },
+        {
+          "level": 2,
+          "text": "Cooking Methods",
+          "anchor": "cooking-methods"
+        },
+        {
+          "level": 3,
+          "text": "Neapolitan Method (Vera Pizza Napoletana)",
+          "anchor": "neapolitan-method-vera-pizza-napoletana"
+        },
+        {
+          "level": 3,
+          "text": "Other Common Methods",
+          "anchor": "other-common-methods"
+        },
+        {
+          "level": 2,
+          "text": "Major Styles & Regional Variants",
+          "anchor": "major-styles--regional-variants"
+        },
+        {
+          "level": 3,
+          "text": "Italy (Foundational Ecology)",
+          "anchor": "italy-foundational-ecology"
+        },
+        {
+          "level": 3,
+          "text": "United States (Regional Diversification)",
+          "anchor": "united-states-regional-diversification"
+        },
+        {
+          "level": 3,
+          "text": "Canada",
+          "anchor": "canada"
+        },
+        {
+          "level": 3,
+          "text": "Latin America",
+          "anchor": "latin-america"
+        },
+        {
+          "level": 3,
+          "text": "Europe (beyond Italy)",
+          "anchor": "europe-beyond-italy"
+        },
+        {
+          "level": 3,
+          "text": "Middle East & North Africa (pizza & “pizza-like” kin)",
+          "anchor": "middle-east--north-africa-pizza--pizza-like-kin"
+        },
+        {
+          "level": 3,
+          "text": "Sub-Saharan Africa",
+          "anchor": "sub-saharan-africa"
+        },
+        {
+          "level": 3,
+          "text": "Asia–Pacific",
+          "anchor": "asiapacific"
+        },
+        {
+          "level": 2,
+          "text": "Technical Notes (Dough & Bake)",
+          "anchor": "technical-notes-dough--bake"
+        },
+        {
+          "level": 2,
+          "text": "Notable Institutions & Firsts",
+          "anchor": "notable-institutions--firsts"
+        },
+        {
+          "level": 2,
+          "text": "References",
+          "anchor": "references"
+        },
+        {
+          "level": 2,
+          "text": "Citations",
+          "anchor": "citations"
+        }
+      ]
+    }
+  ]
+}
